@@ -11,3 +11,5 @@ first with OXCO and precision voltage generator and buffered 10 MHz outputs
 second with ICS511 multiplier ( 2.5 so 25 MHz outputs ) and 74LS390  dividers
 
 all outputs are 50 Ohms, buffered with 3 x 74HC04 inverter and filter to keep only sine wave
+
+![IMG_20230312_181228](https://user-images.githubusercontent.com/30392727/224560993-6a6e7e52-9a85-47c0-bbe0-013be52ab57d.jpg)
